@@ -1,5 +1,4 @@
-# Federated Learning on Raspberry Pi with MobileNet
-
+# Coordinating Computational Capacity for Adaptive Federated Learning in Heterogeneous Edge Computing Systems
 A lightweight federated learning framework for distributed machine learning on resource-constrained devices.
 
 ---
